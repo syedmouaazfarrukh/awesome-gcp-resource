@@ -6,7 +6,20 @@ Welcome to the Google Cloud Industry-Level Use Cases project! In this repository
 
 Google Cloud Platform (GCP) offers a wide range of cloud services and solutions that can be customized to address industry-specific needs. This README will focus on three industry-level use cases and the possible Google Cloud services used in each of them. These use cases demonstrate the versatility and scalability of Google Cloud in solving complex problems across various domains.
 
-## Use Case 1: Retail Inventory Optimization
+## Use Case 1: Real-time Monitoring of IoT devices with Data Analysis 
+
+### Description
+In the retail industry, managing inventory efficiently is crucial to reducing costs and maximizing profits. Retailers often struggle with overstocking or understocking products, which can lead to revenue loss. This use case explores how Google Cloud services can help optimize inventory management.
+
+### Google Cloud Services
+1. **Cloud PubSub**: Utilized for analyzing historical sales data and demand forecasting.
+  -- [Getting started with BigTable using Python](https://medium.com/@mouaazfarrukh99/getting-started-with-bigtable-using-client-libraries-python-6cc97e7b6fad)
+2. **Cloud Storage**: Stores product images, historical sales records, and other relevant data.
+3. **Bigtable**: Builds machine learning models for demand prediction.
+4. **Dataflow**: Triggers restocking alerts and notifications based on predefined criteria.
+5. **Cloud ML**: Facilitates real-time communication between inventory management systems.
+
+## Use Case 2: Retail Inventory Optimization
 
 ### Description
 In the retail industry, managing inventory efficiently is crucial to reducing costs and maximizing profits. Retailers often struggle with overstocking or understocking products, which can lead to revenue loss. This use case explores how Google Cloud services can help optimize inventory management.
