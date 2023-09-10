@@ -12,12 +12,12 @@ Google Cloud Platform (GCP) offers a wide range of cloud services and solutions 
 In the retail industry, managing inventory efficiently is crucial to reducing costs and maximizing profits. Retailers often struggle with overstocking or understocking products, which can lead to revenue loss. This use case explores how Google Cloud services can help optimize inventory management.
 
 ### Google Cloud Services
-1. **Cloud PubSub**: Utilized for analyzing historical sales data and demand forecasting.
-2. **Cloud Storage**: Stores product images, historical sales records, and other relevant data.
-3. **Bigtable**: Builds machine learning models for demand prediction.
+1. **Cloud PubSub**: Data is recieved in either of the push/pull subscriptions and fed into buckets.
+2. **Cloud Storage**: Stores sensor data using pubsub cloud storage subscription and is further processed into bigtable.
+3. **Bigtable**: Builds a NoSQL database of sensor data.
     - [Getting started with BigTable using Python](https://medium.com/@mouaazfarrukh99/getting-started-with-bigtable-using-client-libraries-python-6cc97e7b6fad)
-4. **Dataflow**: Triggers restocking alerts and notifications based on predefined criteria.
-5. **Cloud ML**: Facilitates real-time communication between inventory management systems.
+4. **Dataflow**: Used to build data pipeline connecting various services such as Cloud Storage and BigTable.
+5. **Cloud ML**: Builds models to analayze and predict machine performance via sensor data.
 
 ## Use Case 2: Retail Inventory Optimization
 
