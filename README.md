@@ -13,9 +13,19 @@ In the retail industry, managing inventory efficiently is crucial to reducing co
 
 ### Google Cloud Services
 1. **Cloud PubSub**: Data is recieved in either of the push/pull subscriptions and fed into buckets.
+    
+    - [Pub/Sub Overview](https://cloud.google.com/pubsub/docs/overview)
+    - [Types of Pub/Sub](https://cloud.google.com/pubsub/docs/overview#lite)
+    - [Select a Subscription Type](https://cloud.google.com/pubsub/docs/subscriber)
+    - [Create/Write/Read Pub/Sub using Python]()
+
 2. **Cloud Storage**: Stores sensor data using pubsub cloud storage subscription and is further processed into bigtable.
 3. **Bigtable**: Builds a NoSQL database of sensor data.
-    - [Getting started with BigTable using Python](https://medium.com/@mouaazfarrukh99/getting-started-with-bigtable-using-client-libraries-python-6cc97e7b6fad)
+
+    - [BigTable Overview](https://cloud.google.com/bigtable/docs/overview)
+    - [BigTable - Schema Design Best Practices](https://cloud.google.com/bigtable/docs/schema-design)
+    - [Create/Write/Read BigTable using Python](https://medium.com/@mouaazfarrukh99/getting-started-with-bigtable-using-client-libraries-python-6cc97e7b6fad)
+
 4. **Dataflow**: Used to build data pipeline connecting various services such as Cloud Storage and BigTable.
 5. **Cloud ML**: Builds models to analayze and predict machine performance via sensor data.
 
