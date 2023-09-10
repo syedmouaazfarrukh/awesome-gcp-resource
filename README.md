@@ -13,9 +13,9 @@ In the retail industry, managing inventory efficiently is crucial to reducing co
 
 ### Google Cloud Services
 1. **Cloud PubSub**: Utilized for analyzing historical sales data and demand forecasting.
-  - [Getting started with BigTable using Python](https://medium.com/@mouaazfarrukh99/getting-started-with-bigtable-using-client-libraries-python-6cc97e7b6fad)
 2. **Cloud Storage**: Stores product images, historical sales records, and other relevant data.
 3. **Bigtable**: Builds machine learning models for demand prediction.
+    - [Getting started with BigTable using Python](https://medium.com/@mouaazfarrukh99/getting-started-with-bigtable-using-client-libraries-python-6cc97e7b6fad)
 4. **Dataflow**: Triggers restocking alerts and notifications based on predefined criteria.
 5. **Cloud ML**: Facilitates real-time communication between inventory management systems.
 
