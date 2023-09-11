@@ -12,14 +12,19 @@ Google Cloud Platform (GCP) offers a wide range of cloud services and solutions 
 In the retail industry, managing inventory efficiently is crucial to reducing costs and maximizing profits. Retailers often struggle with overstocking or understocking products, which can lead to revenue loss. This use case explores how Google Cloud services can help optimize inventory management.
 
 ### Google Cloud Services
-1. **Cloud PubSub**: Data is recieved in either of the push/pull subscriptions and fed into buckets.
+1. **Cloud Storage**: Stores sensor data using pubsub cloud storage subscription and is further processed into bigtable.
+    
+    - [Cloud Storage Overview](https://cloud.google.com/storage/docs/storage-classes)
+    - [Cloud Storage - Best Practices](https://cloud.google.com/storage/docs/best-practices)
+    - [Create Bucket & Upload/Retrieve Object]()
+      
+2. **Cloud PubSub**: Data is recieved in either of the push/pull subscriptions and fed into buckets. 
     
     - [Pub/Sub Overview](https://cloud.google.com/pubsub/docs/overview)
     - [Types of Pub/Sub](https://cloud.google.com/pubsub/docs/overview#lite)
     - [Select a Subscription Type](https://cloud.google.com/pubsub/docs/subscriber)
     - [Create/Write/Read Pub/Sub using Python](https://medium.com/@mouaazfarrukh99/getting-started-with-pub-sub-using-python-305a19901f1a)
 
-2. **Cloud Storage**: Stores sensor data using pubsub cloud storage subscription and is further processed into bigtable.
 3. **Bigtable**: Builds a NoSQL database of sensor data.
 
     - [BigTable Overview](https://cloud.google.com/bigtable/docs/overview)
