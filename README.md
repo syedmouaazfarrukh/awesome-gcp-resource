@@ -16,7 +16,7 @@ In the retail industry, managing inventory efficiently is crucial to reducing co
     
     - [Cloud Storage Overview](https://cloud.google.com/storage/docs/storage-classes)
     - [Cloud Storage - Best Practices](https://cloud.google.com/storage/docs/best-practices)
-    - [Create Bucket & Upload/Retrieve Object]()
+    - [Create Bucket & Upload/Retrieve Object](https://medium.com/@mouaazfarrukh99/create-bucket-and-upload-retrieve-objects-from-gcs-using-python-5ebd0c5e9246)
       
 2. **Cloud PubSub**: Data is recieved in either of the push/pull subscriptions and fed into buckets. 
     
