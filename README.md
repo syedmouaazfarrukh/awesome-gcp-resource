@@ -80,10 +80,7 @@ To explore these industry-level use cases and understand how Google Cloud servic
 
 We welcome contributions from the community to enhance and expand these industry-level use cases. If you have experience with Google Cloud services in different industry domains or want to improve the existing documentation, please feel free to create pull requests or open issues.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Thank you for your interest in the Google Cloud Industry-Level Use Cases project. We hope you find this repository informative and inspiring for your own industry-specific cloud solutions. If you have any questions or need assistance, please don't hesitate to reach out.
+Thank you for your interest in the Google Cloud Industry-Level Use Cases project. I hope you find this repository informative and inspiring for your own industry-specific cloud solutions. If you have any questions or need assistance, please don't hesitate to reach out or open a pull request or an issue.
 
 Happy cloud computing! 🚀
