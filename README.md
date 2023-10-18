@@ -1,6 +1,6 @@
 # Google Cloud Industry-Level Use Cases
 
-Welcome to the Google Cloud Industry-Level Use Cases project! In this repository, you will find detailed explanations of industry-level use cases and the Google Cloud services involved in building solutions for them. Whether you are a developer, data scientist, or cloud enthusiast, this repository aims to provide valuable insights into how Google Cloud can be leveraged to tackle real-world industry challenges.
+Welcome to the Google Cloud Industry-Level Use Cases project! In this repository, you will find detailed explanations of industry-level use cases and the Google Cloud services involved in building solutions for them. Whether you are a developer, data scientist, or cloud enthusiast, this repository aims to provide valuable insights into how Google Cloud can be used to tackle real-world industry challenges.
 
 ## Introduction
 
