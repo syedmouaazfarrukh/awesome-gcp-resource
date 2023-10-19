@@ -32,7 +32,12 @@ In the retail industry, managing inventory efficiently is crucial to reducing co
     - [Create/Write/Read BigTable using Python](https://medium.com/@mouaazfarrukh99/getting-started-with-bigtable-using-client-libraries-python-6cc97e7b6fad)
 
 4. **Dataflow**: Used to build data pipeline connecting various services such as Cloud Storage and BigTable.
-5. **Cloud ML**: Builds models to analayze and predict machine performance via sensor data.
+   
+    - [Dataflow Overview](https://cloud.google.com/bigtable/docs/overview)
+    - [Dataflow - Schema Design Best Practices](https://cloud.google.com/bigtable/docs/schema-design)
+    - [Dataflow using Python](https://medium.com/@mouaazfarrukh99/getting-started-with-bigtable-using-client-libraries-python-6cc97e7b6fad)
+      
+6. **Cloud ML**: Builds models to analayze and predict machine performance via sensor data.
 
 ## Use Case 2: Retail Inventory Optimization
 
